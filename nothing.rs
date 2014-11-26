@@ -11,6 +11,7 @@ fn main() {
 		nothing += 1;
 		if nothing == 10 {
 			zilch = false;
+			break;
 		}
 	}
 }
